@@ -1,4 +1,4 @@
-# HomeworkW2
+# MyPortfolio
 
 ## Description
 Designing a portfolio was different and engaging. This project is designed with the intention of showing a hirer what they will need to look for directly when taken to the landing page. The motivation of this project was browsing online and gathering different inspirations of others' portfolios and taking designs and crumbling it into my own personal Portfolio.
