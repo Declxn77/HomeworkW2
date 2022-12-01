@@ -370,3 +370,28 @@ footer {
     margin-left: 120px;
 }
 
+/*  RESPONSIVE DESIGN  */
+@media (max-width:768px){
+  nav{
+    height: 68px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  .about-me__paragraph {
+    font-size: 18px;
+  }
+
+  .project__description--para{
+    font-size: 14px;
+
+  }
+
+  .project__description{
+    left: 30px;
+    padding-right: 30px;
+  }
+  
+}
